@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+#mytable th,
+#mytable td {
+    border: 1px solid black;
+    padding: 1em;
+}
+
+#edit-window {
+    position: fixed;
+    top: 50px;
+    left: 200px;
+    padding: 20px 50px 50px 50px;
+    background: #212226;
+    color: #fff;
+}
